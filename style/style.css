@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 16px;
+
+
+}
+
+ul li {
+    background-color: aqua;
+    color: white;
+}
+
+ol li {
+    background-color: rgb(212, 173, 42);
+    color: rgb(55, 55, 243);
+}
+
+.desc {
+    text-align: center;
+}
+
+#real {
+    text-align: center;
+    font-weight: 600;
+}
